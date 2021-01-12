@@ -33,5 +33,5 @@ git pull origin master <pull origin to master>
 
 git remote add origin  https://github.com/git-commands
 
-
+when you see git log,you can copy the code infront of git show code ,too see what is the change of the code
 
