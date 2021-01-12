@@ -1,0 +1,36 @@
+git init
+git config --global user.email "mena.maryam888@gmail.com"
+git congif --global user.name  "maryam"
+git status
+git add <file-name>
+git add -A
+git commit -m <your message>
+git log
+git add "pages.*"
+git diff HEAD : HEAD  is the last status of file(last commit) ekhtelafharo neshon mide
+git diff --staged :  ekhtelafharo to marhaleye staged mige(zamani k git add ro zadi) 
+git reset file1 (file1 ro az stage daresh biyar,ghable commit zadan mitoni)
+git checkout -- filename (barmigardone be akharin commitesh)
+
+note:
+before write checkout -- file1,write git --reset file1.txt
+
+git branch=see which barnch we are in
+git branch fixpages= create new branch named fixpages
+git checkout fixpages: go to branch fixpages
+
+note: to merge a branch,go to  master branch and write git merge fixpages;
+
+note:where you write git rm file,you should write git commit -m after that!
+
+git rm file: rm file from git and filesystem!
+after that you have to write "git commit -m"
+
+git clone <repository url from github>
+git push origin master < push from master to origin>
+git pull origin master <pull origin to master>
+
+git remote add origin  https://github.com/git-commands
+
+
+
