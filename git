@@ -48,3 +48,5 @@ in normal situation, when you use git push (tags are not push to origin ,for tha
 
 
 git blame filename -L20 =to see who write line 20 from filename
+
+git help blame
