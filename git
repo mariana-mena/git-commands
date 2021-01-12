@@ -1,4 +1,8 @@
 written by Mariana
+this is the url:
+https://faradars.org/courses/fvgit9609-git-github-gitlab
+
+
 git init
 git config --global user.email "mena.maryam888@gmail.com"
 git congif --global user.name  "maryam"
