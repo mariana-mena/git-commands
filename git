@@ -35,3 +35,10 @@ git remote add origin  https://github.com/git-commands
 
 when you see git log,you can copy the code infront of git show code ,too see what is the change of the code
 
+
+TAGS:
+git tag=list if akk your tags
+git tag -a v1.2 -m "this is the version 1.2" 
+
+in normal situation, when you use git push (tags are not push to origin ,for that you can write git push origin v1.2
+
