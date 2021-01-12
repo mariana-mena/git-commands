@@ -46,3 +46,5 @@ git tag -a v1.2 -m "this is the version 1.2"
 
 in normal situation, when you use git push (tags are not push to origin ,for that you can write git push origin v1.2
 
+
+git blame filename -L20 =to see who write line 20 from filename
